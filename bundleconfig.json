@@ -1,0 +1,13 @@
+[
+    {
+        "outputFileName": "wwwroot/js/web3/dist/web3.min.js",
+        "inputFiles": [
+            "wwwroot/js/web3/dist/web3.min.js"
+        ],
+        "minify": {
+            "enabled": true,
+            "renameLocals": true
+        },
+        "sourceMap": false
+    }
+]
